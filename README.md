@@ -30,5 +30,5 @@ Perform exploratory data analysis (EDA) on a retail sales dataset to uncover pat
 3. Run the notebook in Jupyter or VS Code  
 
 ## Author
-Your Name  
+Arun Sajwan  
 Internship project with Oasis Infobyte
