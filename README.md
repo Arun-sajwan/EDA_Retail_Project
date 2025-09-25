@@ -21,8 +21,8 @@ Perform exploratory data analysis (EDA) on a retail sales dataset to uncover pat
 ## Files
 - `EDA_Retail_Sales.ipynb` → Jupyter Notebook with full code and analysis  
 - `retail_sales_dataset.csv` → Raw dataset  
-- `cleaned_retail_sales.csv` → Cleaned dataset (optional)  
-- `eda_summary.json` → Summary statistics (optional)  
+- `cleaned_retail_sales.csv` → Cleaned dataset  
+- `eda_summary.json` → Summary statistics  
 
 ## How to Run
 1. Clone the repo  
