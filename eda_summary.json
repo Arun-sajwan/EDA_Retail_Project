@@ -1,0 +1,53 @@
+{
+  "rows": 1000,
+  "cols": 13,
+  "date_col": "Date",
+  "total_sales": 456000.0,
+  "sales_count": 1000,
+  "unique_customers": 1000,
+  "top_products": {
+    "Electronics": 156905,
+    "Clothing": 155580,
+    "Beauty": 143515
+  },
+  "monthly_sales_last_24": {
+    "2023-01-31 00:00:00": 35450,
+    "2023-02-28 00:00:00": 44060,
+    "2023-03-31 00:00:00": 28990,
+    "2023-04-30 00:00:00": 33870,
+    "2023-05-31 00:00:00": 53150,
+    "2023-06-30 00:00:00": 36715,
+    "2023-07-31 00:00:00": 35465,
+    "2023-08-31 00:00:00": 36960,
+    "2023-09-30 00:00:00": 23620,
+    "2023-10-31 00:00:00": 46580,
+    "2023-11-30 00:00:00": 34920,
+    "2023-12-31 00:00:00": 44690,
+    "2024-01-31 00:00:00": 1530
+  },
+  "missing_percent_pct": {
+    "Transaction ID": 0.0,
+    "Date": 0.0,
+    "Customer ID": 0.0,
+    "Gender": 0.0,
+    "Age": 0.0,
+    "Product Category": 0.0,
+    "Quantity": 0.0,
+    "Price per Unit": 0.0,
+    "Total Amount": 0.0,
+    "Sales": 0.0,
+    "Year": 0.0,
+    "Month": 0.0,
+    "YearMonth": 0.0
+  },
+  "numeric_corr_keys": [
+    "Transaction ID",
+    "Age",
+    "Quantity",
+    "Price per Unit",
+    "Total Amount",
+    "Sales",
+    "Year",
+    "Month"
+  ]
+}
